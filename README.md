@@ -3,10 +3,9 @@ Routing with react-route-dom
 
 Setup and ready for redux-form, redux-thunk, axios, firebase
 
-you will need to set up  .env  in ./src
+you will need to set up a .env file in the root dir
 
-Looks like this
-
+Looks something like this 👇
 
 REACT_APP_WEBSITE_NAME= ###-###  
 
